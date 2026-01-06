@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767639237 source:c:\users\emili\documents\i2\pacman\pacman\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdbool.h>
+
